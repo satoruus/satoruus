@@ -4,6 +4,6 @@
 <img src="https://files.catbox.moe/fc02yi.gif" width="400" height="400" border="10"/>
 <br>
 <br>
-[rentry](https://rentry.co/sovenance) <br>
-[atabook](https://bagel.atabook.org/)
+https://rentry.co/sovenance <br>
+https://bagel.atabook.org/
 <br><br> im  a lazy bum </p>
