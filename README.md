@@ -1,7 +1,7 @@
 <p align="center"> my name is bagel and i like to party!
 <br>
 <bR>
-<img src="https://files.catbox.moe/fc02yi.gif" width="400" height="400" border="10"/>
+<img src="https://files.catbox.moe/fc02yi.gif" width="498" height="279" border="10"/>
 <br>
 <br>
 https://rentry.co/sovenance <br>
